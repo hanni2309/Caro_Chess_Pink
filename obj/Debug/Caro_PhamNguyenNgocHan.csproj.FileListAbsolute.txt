@@ -1,0 +1,10 @@
+E:\LapTrinhWindows\Caro_PhamNguyenNgocHan\bin\Debug\Caro_PhamNguyenNgocHan.exe.config
+E:\LapTrinhWindows\Caro_PhamNguyenNgocHan\bin\Debug\Caro_PhamNguyenNgocHan.exe
+E:\LapTrinhWindows\Caro_PhamNguyenNgocHan\bin\Debug\Caro_PhamNguyenNgocHan.pdb
+E:\LapTrinhWindows\Caro_PhamNguyenNgocHan\obj\Debug\Caro_PhamNguyenNgocHan.csproj.AssemblyReference.cache
+E:\LapTrinhWindows\Caro_PhamNguyenNgocHan\obj\Debug\Caro_PhamNguyenNgocHan.Form1.resources
+E:\LapTrinhWindows\Caro_PhamNguyenNgocHan\obj\Debug\Caro_PhamNguyenNgocHan.Properties.Resources.resources
+E:\LapTrinhWindows\Caro_PhamNguyenNgocHan\obj\Debug\Caro_PhamNguyenNgocHan.csproj.GenerateResource.cache
+E:\LapTrinhWindows\Caro_PhamNguyenNgocHan\obj\Debug\Caro_PhamNguyenNgocHan.csproj.CoreCompileInputs.cache
+E:\LapTrinhWindows\Caro_PhamNguyenNgocHan\obj\Debug\Caro_PhamNguyenNgocHan.exe
+E:\LapTrinhWindows\Caro_PhamNguyenNgocHan\obj\Debug\Caro_PhamNguyenNgocHan.pdb
